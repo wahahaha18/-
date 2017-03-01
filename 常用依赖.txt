@@ -62,6 +62,8 @@ compile 'com.android.support:design:25.1.0'
 
 
 一个项目：
+
+//compile 'com.android.support:design:24.2.1'
 // LeakCanary内存泄漏工具
     debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5'
     releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
